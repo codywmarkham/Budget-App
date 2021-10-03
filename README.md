@@ -21,8 +21,8 @@ I **WANT** to plan and budget my money<br>
 ## Mock-up
 The following picture shows the website appearance and capabilities:
 
-<img src="./images/screenshots/screenshot01.png" width="300"><br>
-<img src="./images/screenshots/screenshot02.png" width="300"><br>
+<img src="./images/screenshot01.PNG" width="300"><br>
+<img src="./images/screenshot02.PNG" width="300"><br>
 
 ## Installation
 To fork this code to further improve the website, please follow these directions:
