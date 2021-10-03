@@ -21,8 +21,8 @@ I **WANT** to plan and budget my money<br>
 ## Mock-up
 The following picture shows the website appearance and capabilities:
 
-<img src="./images/screenshot01.PNG" width="300"><br>
-<img src="./images/screenshot02.PNG" width="300"><br>
+![Explantion Image](https://github.com/codywmarkham/Budget-App/blob/main/public/assets/images/screenshot01.PNG)
+![Explantion Image](https://github.com/codywmarkham/Budget-App/blob/main/public/assets/images/screenshot02.PNG)
 
 ## Installation
 To fork this code to further improve the website, please follow these directions:
