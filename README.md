@@ -22,7 +22,7 @@ I **WANT** to plan and budget my money<br>
 The following picture shows the website appearance and capabilities:
 
 ![Explantion Image](https://github.com/codywmarkham/Budget-App/blob/main/public/assets/images/screenshot01.PNG)
-![Explantion Image](https://github.com/codywmarkham/Budget-App/blob/main/public/assets/images/screenshot02.PNG)
+![Explantion Image](https://github.com/codywmarkham/Budget-App/blob/main/public/assets/images/screenshot03.PNG)
 
 ## Installation
 To fork this code to further improve the website, please follow these directions:
